@@ -1,4 +1,5 @@
 import 'package:bloc/bloc.dart';
+import 'package:breakingbad/data/models/characters.dart';
 import 'package:meta/meta.dart';
 
 part 'characters_state.dart';
